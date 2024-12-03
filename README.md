@@ -1,3 +1,3 @@
 # apnacolledge-demo
 this ia my first repo
-Author-Aman chauhan
+Author-Aman (apna college)
